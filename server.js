@@ -18,13 +18,13 @@ function shuffle(arr){
     return shuffled
 }
 app.get('/get',(req,res)=>{
-    let {element,path,rarity,amount,random,faction,version} = req.query
+    let {element,path,rarity,amount,random,faction,startVersion,endVersion} = req.query
     element = element === undefined ? 'all' : element
     path = path === undefined ? 'all' : path
     rarity = rarity === undefined ? 'all': rarity
     amount = amount === undefined ? Object.keys(data).length : amount
     random = random === undefined ? 'false' : random
-    startVersion = version === undefined ? 1.0 : startVersion
+    startVersion = startVersion === undefined ? 1.0 : startVersion
     endVersion = endVersion === undefined ? 100 : endVersion
     let returnData = []
     let tmp = []
@@ -37,12 +37,13 @@ app.get('/get',(req,res)=>{
         for(let i = 0; i < returnData.length; i++){
             if(data[returnData[i]].path === path){tmp.push(returnData[i])}
         }
-    } else {tmp = returnData}
+    } else {tmp = returnData; returnData = []}
+    
     if(rarity !== 'all'){
         for(let i = 0; i < tmp.length; i++){
             if(data[tmp[i]].rarity === rarity){returnData.push(tmp[i])}
         }
-    } else {returnData = tmp}
+    } else {returnData = tmp; tmp = []}
     for(let i = 0; i < returnData.length; i++){
         if(data[returnData[i]].version >= startVersion && data[returnData[i]].version <= endVersion){tmp.push(returnData[i])}
     }
