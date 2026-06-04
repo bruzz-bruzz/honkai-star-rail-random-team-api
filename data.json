@@ -1,0 +1,576 @@
+{
+  "Acheron": {
+    "element": "Lightning",
+    "path": "Nihility",
+    "rarity": "5star",
+    "faction":"Penacony",
+    "version":2.0
+  },
+  "Aglaea": {
+    "element": "Lightning",
+    "path": "Remembrance",
+    "rarity": "5star",
+    "faction":"Amphoreus",
+    "version":3.0
+  },
+  "Anaxa": {
+    "element": "Wind",
+    "path": "Erudition",
+    "rarity": "5star",
+    "faction":"Amphoreus",
+    "version":3.2
+  },
+  "Argenti": {
+    "element": "Physical",
+    "path": "Erudition",
+    "rarity": "5star",
+    "faction":"Knights of Beauty",
+    "version":1.5
+  },
+  "Arlan": {
+    "element": "Lightning",
+    "path": "Destruction",
+    "rarity": "4star",
+    "faction":"Herta Space Station",
+    "version":1.0
+  },
+  "Ashveil": {
+    "element": "Lightning",
+    "path": "The Hunt",
+    "rarity": "5star",
+    "faction":"Planarcadia",
+    "version":4.1
+  },
+  "Asta": {
+    "element": "Fire",
+    "path": "Harmony",
+    "rarity": "4star",
+    "faction":"Herta Space Station",
+    "version":1.0
+  },
+  "Aventurine": {
+    "element": "Imaginary",
+    "path": "Preservation",
+    "rarity": "5star",
+    "faction":"Penacony",
+    "version":2.1
+  },
+  "Bailu": {
+    "element": "Lightning",
+    "path": "Abundance",
+    "rarity": "5star",
+    "faction":"Xianzhou Luofu",
+    "version":1.0
+  },
+  "Black Swan": {
+    "element": "Wind",
+    "path": "Nihility",
+    "rarity": "5star",
+    "faction":"Penacony",
+    "version":2.0
+  },
+  "Blade": {
+    "element": "Wind",
+    "path": "Destruction",
+    "rarity": "5star",
+    "faction":"Stellaron Hunters",
+    "version":1.2
+  },
+  "Boothill": {
+    "element": "Physical",
+    "path": "The Hunt",
+    "rarity": "5star",
+    "faction":"Penacony",
+    "version":2.2
+  },
+  "Bronya": {
+    "element": "Wind",
+    "path": "Harmony",
+    "rarity": "5star",
+    "faction":"Belobog",
+    "version":1.0
+  },
+  "Castorice": {
+    "element": "Quantum",
+    "path": "Remembrance",
+    "rarity": "5star",
+    "faction":"Amphoreus",
+    "version":3.2
+  },
+  "Cerydra": {
+    "element": "Wind",
+    "path": "Harmony",
+    "rarity": "5star",
+    "faction":"Amphoreus",
+    "version":3.5
+  },
+  "Cipher": {
+    "element": "Quantum",
+    "path": "Nihility",
+    "rarity": "5star",
+    "faction":"Amphoreus",
+    "version":3.3
+  },
+  "Clara": {
+    "element": "Physical",
+    "path": "Destruction",
+    "rarity": "5star",
+    "faction":"Belobog",
+    "version":1.0
+  },
+  "Cyrene": {
+    "element": "Ice",
+    "path": "Remembrance",
+    "rarity": "5star",
+    "faction":"Amphoreus",
+    "version":3.7
+  },
+  "Dan Heng": {
+    "element": "Wind",
+    "path": "The Hunt",
+    "rarity": "4star",
+    "faction":"Astral Express",
+    "version":1.0
+  },
+  "Dan Heng • Imbibitor Lunae": {
+    "element": "Imaginary",
+    "path": "Destruction",
+    "rarity": "5star",
+    "faction":"Xianzhou Luofu",
+    "version":1.3
+  },
+  "Dan Heng • Permansor Terrae": {
+    "element": "Physical",
+    "path": "Preservation",
+    "rarity": "5star",
+    "faction":"Amphoreus",
+    "version":3.6
+  },
+  "Dr. Ratio": {
+    "element": "Imaginary",
+    "path": "The Hunt",
+    "rarity": "5star",
+    "faction":"Genius Society",
+    "version":1.6
+  },
+  "Evanescia": {
+    "element": "Physical",
+    "path": "Elation",
+    "rarity": "5star",
+    "faction":"Amphoreus",
+    "version":4.2
+  },
+  "Evernight": {
+    "element": "Quantum",
+    "path": "Remembrance",
+    "rarity": "5star",
+    "faction":"Amphoreus",
+    "version":3.6
+  },
+  "Feixiao": {
+    "element": "Wind",
+    "path": "The Hunt",
+    "rarity": "5star",
+    "faction":"Xianzhou Luofu",
+    "version":2.5
+  },
+  "Firefly": {
+    "element": "Fire",
+    "path": "Destruction",
+    "rarity": "5star",
+    "faction":"Penacony",
+    "version":2.3
+  },
+  "Fu Xuan": {
+    "element": "Quantum",
+    "path": "Preservation",
+    "rarity": "5star",
+    "faction":"Xianzhou Luofu",
+    "version":1.3
+  },
+  "Fugue": {
+    "element": "Fire",
+    "path": "Nihility",
+    "rarity": "5star",
+    "faction":"Penacony",
+    "version":2.7
+  },
+  "Gallagher": {
+    "element": "Fire",
+    "path": "Abundance",
+    "rarity": "4star",
+    "faction":"Penacony",
+    "version":2.1
+  },
+  "Gepard": {
+    "element": "Ice",
+    "path": "Preservation",
+    "rarity": "5star",
+    "faction":"Belobog",
+    "version":1.0
+  },
+  "Guinaifen": {
+    "element": "Fire",
+    "path": "Nihility",
+    "rarity": "4star",
+    "faction":"Xianzhou Luofu",
+    "version":1.4
+  },
+  "Hanya": {
+    "element": "Physical",
+    "path": "Harmony",
+    "rarity": "4star",
+    "faction":"Xianzhou Luofu",
+    "version":1.5
+  },
+  "Herta": {
+    "element": "Ice",
+    "path": "Erudition",
+    "rarity": "4star",
+    "faction":"Herta Space Station",
+    "version":1.0
+  },
+  "Himeko": {
+    "element": "Fire",
+    "path": "Erudition",
+    "rarity": "5star",
+    "faction":"Astral Express",
+    "version":1.0
+  },
+  "Hook": {
+    "element": "Fire",
+    "path": "Destruction",
+    "rarity": "4star",
+    "faction":"Belobog",
+    "version":1.0
+  },
+  "Huohuo": {
+    "element": "Wind",
+    "path": "Abundance",
+    "rarity": "5star",
+    "faction":"Xianzhou Luofu",
+    "version":1.5
+  },
+  "Hyacine": {
+    "element": "Wind",
+    "path": "Remembrance",
+    "rarity": "5star",
+    "faction":"Amphoreus",
+    "version":3.3
+  },
+  "Hysilens": {
+    "element": "Physical",
+    "path": "Nihility",
+    "rarity": "5star",
+    "faction":"Amphoreus",
+    "version":3.5
+  },
+  "Jade": {
+    "element": "Quantum",
+    "path": "Erudition",
+    "rarity": "5star",
+    "faction":"Penacony",
+    "version":2.3
+  },
+  "Jiaoqiu": {
+    "element": "Fire",
+    "path": "Nihility",
+    "rarity": "5star",
+    "faction":"Xianzhou Luofu",
+    "version":2.4
+  },
+  "Jing Yuan": {
+    "element": "Lightning",
+    "path": "Erudition",
+    "rarity": "5star",
+    "faction":"Xianzhou Luofu",
+    "version":1.0
+  },
+  "Jingliu": {
+    "element": "Ice",
+    "path": "Destruction",
+    "rarity": "5star",
+    "faction":"Xianzhou Luofu",
+    "version":1.4
+  },
+  "Kafka": {
+    "element": "Lightning",
+    "path": "Nihility",
+    "rarity": "5star",
+    "faction":"Stellaron Hunters",
+    "version":1.2
+  },
+  "Lingsha": {
+    "element": "Fire",
+    "path": "Abundance",
+    "rarity": "5star",
+    "faction":"Xianzhou Luofu",
+    "version":2.5
+  },
+  "Luka": {
+    "element": "Physical",
+    "path": "Nihility",
+    "rarity": "4star",
+    "faction":"Belobog",
+    "version":1.2
+  },
+  "Luocha": {
+    "element": "Imaginary",
+    "path": "Abundance",
+    "rarity": "5star",
+    "faction":"Xianzhou Luofu",
+    "version":1.1
+  },
+  "Lynx": {
+    "element": "Quantum",
+    "path": "Abundance",
+    "rarity": "4star",
+    "faction":"Belobog",
+    "version":1.3
+  },
+  "March 7th": {
+    "element": "Ice",
+    "path": "Preservation",
+    "rarity": "4star",
+    "faction":"Astral Express",
+    "version":1.0
+  },
+  "Misha": {
+    "element": "Ice",
+    "path": "Destruction",
+    "rarity": "4star",
+    "faction":"Penacony",
+    "version":2.0
+  },
+  "Mortenax Blade": {
+    "element": "Fire",
+    "path": "Nihility",
+    "rarity": "5star",
+    "faction":"Stellaron Hunters",
+    "version":4.3
+  },
+  "Moze": {
+    "element": "Lightning",
+    "path": "The Hunt",
+    "rarity": "4star",
+    "faction":"Xianzhou Luofu",
+    "version":2.5
+  },
+  "Mydei": {
+    "element": "Imaginary",
+    "path": "Destruction",
+    "rarity": "5star",
+    "faction":"Amphoreus",
+    "version":3.1
+  },
+  "Natasha": {
+    "element": "Physical",
+    "path": "Abundance",
+    "rarity": "4star",
+    "faction":"Belobog",
+    "version":1.0
+  },
+  "Pela": {
+    "element": "Ice",
+    "path": "Nihility",
+    "rarity": "4star",
+    "faction":"Belobog",
+    "version":1.0
+  },
+  "Phainon": {
+    "element": "Physical",
+    "path": "Destruction",
+    "rarity": "5star",
+    "faction":"Amphoreus",
+    "version":3.4
+  },
+  "Qingque": {
+    "element": "Quantum",
+    "path": "Erudition",
+    "rarity": "4star",
+    "faction":"Xianzhou Luofu",
+    "version":1.0
+  },
+  "Rappa": {
+    "element": "Imaginary",
+    "path": "Erudition",
+    "rarity": "5star",
+    "faction":"Galaxy Rangers",
+    "version":2.6
+  },
+  "Robin": {
+    "element": "Physical",
+    "path": "Harmony",
+    "rarity": "5star",
+    "faction":"Penacony",
+    "version":2.2
+  },
+  "Ruan Mei": {
+    "element": "Ice",
+    "path": "Harmony",
+    "rarity": "5star",
+    "faction":"Genius Society",
+    "version":1.6
+  },
+  "Sampo": {
+    "element": "Wind",
+    "path": "Nihility",
+    "rarity": "4star",
+    "faction":"Belobog",
+    "version":1.0
+  },
+  "Seele": {
+    "element": "Quantum",
+    "path": "The Hunt",
+    "rarity": "5star",
+    "faction":"Belobog",
+    "version":1.0
+  },
+  "Serval": {
+    "element": "Lightning",
+    "path": "Erudition",
+    "rarity": "4star",
+    "faction":"Belobog",
+    "version":1.0
+  },
+  "Silver Wolf": {
+    "element": "Quantum",
+    "path": "Nihility",
+    "rarity": "5star",
+    "faction":"Stellaron Hunters",
+    "version":1.1
+  },
+  "Silver Wolf LV.999": {
+    "element": "Imaginary",
+    "path": "Erudition",
+    "rarity": "5star",
+    "faction":"Planarcadia",
+    "version":4.2
+  },
+  "Sparkle": {
+    "element": "Quantum",
+    "path": "Harmony",
+    "rarity": "5star",
+    "faction":"Penacony",
+    "version":2.0
+  },
+  "Sparxie": {
+    "element": "Fire",
+    "path": "Elation",
+    "rarity": "5star",
+    "faction":"Planarcadia",
+    "version":4.0
+  },
+  "Sunday": {
+    "element": "Imaginary",
+    "path": "Harmony",
+    "rarity": "5star",
+    "faction":"Astral Express",
+    "version":2.7
+  },
+  "Sushang": {
+    "element": "Physical",
+    "path": "The Hunt",
+    "rarity": "4star",
+    "faction":"Xianzhou Luofu",
+    "version":1.0
+  },
+  "The Herta": {
+    "element": "Ice",
+    "path": "Erudition",
+    "rarity": "5star",
+    "faction":"Genius Society",
+    "version":3.0
+  },
+  "Tingyun": {
+    "element": "Lightning",
+    "path": "Harmony",
+    "rarity": "4star",
+    "faction":"Xianzhou Luofu",
+    "version":1.0
+  },
+  "Trailblazer (Destruction)": {
+    "element": "Physical",
+    "path": "Destruction",
+    "rarity": "5star",
+    "faction":"Astral Express",
+    "version":1.0
+  },
+  "Trailblazer (Preservation)": {
+    "element": "Fire",
+    "path": "Preservation",
+    "rarity": "5star",
+    "faction":"Astral Express",
+    "version":1.0
+  },
+  "Trailblazer (Harmony)": {
+    "element": "Imaginary",
+    "path": "Harmony",
+    "rarity": "5star",
+    "faction":"Astral Express",
+    "version":2.2
+  },
+  "Trailblazer (Remembrance)": {
+    "element": "Ice",
+    "path": "Remembrance",
+    "rarity": "5star",
+    "faction":"Astral Express",
+    "version":3.0
+  },
+  "Trailblazer (Elation)": {
+    "element": "Lightning",
+    "path": "Elation",
+    "rarity": "5star",
+    "faction":"Astral Express",
+    "version":4.2
+  },
+  "Tribbie": {
+    "element": "Quantum",
+    "path": "Harmony",
+    "rarity": "5star",
+    "faction":"Amphoreus",
+    "version":3.1
+  },
+  "Welt": {
+    "element": "Imaginary",
+    "path": "Nihility",
+    "rarity": "5star",
+    "faction":"Astral Express",
+    "version":1.0
+  },
+  "Xueyi": {
+    "element": "Quantum",
+    "path": "Destruction",
+    "rarity": "4star",
+    "faction":"Xianzhou Luofu",
+    "version":1.6
+  },
+  "Yao Guang": {
+    "element": "Physical",
+    "path": "Elation",
+    "rarity": "5star",
+    "faction":"Xianzhou Luofu",
+    "version":4.0
+  },
+  "Yanqing": {
+    "element": "Ice",
+    "path": "The Hunt",
+    "rarity": "5star",
+    "faction":"Xianzhou Luofu",
+    "version":1.0
+  },
+  "Yukong": {
+    "element": "Imaginary",
+    "path": "Harmony",
+    "rarity": "4star",
+    "faction":"Xianzhou Luofu",
+    "version":1.0
+  },
+  "Yunli": {
+    "element": "Physical",
+    "path": "Destruction",
+    "rarity": "5star",
+    "faction":"Xianzhou Luofu",
+    "version":2.4
+  }
+}
