@@ -1,6 +1,8 @@
 const express = require("express")
 const data = require('./data.json')
 const rateLimit = require('express-rate-limit')
+const cors = require('cors')
+const helmet = require('helmet')
 const limiter = rateLimit({
     windowMs: 15 * 60 * 1000,
     max: 100, 
@@ -17,6 +19,10 @@ function shuffle(arr){
     }
     return shuffled
 }
+app.set('trust proxy',1)
+app.use(limiter)
+app.use(cors())
+app.use(helmet())
 app.get('/get',(req,res)=>{
     let {element,path,rarity,amount,random,faction,startVersion,endVersion} = req.query
     element = element === undefined ? 'all' : element
